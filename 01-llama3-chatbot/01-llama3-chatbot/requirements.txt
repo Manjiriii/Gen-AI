@@ -1,0 +1,5 @@
+huggingface-hub
+duckduckgo-search
+requests
+beautifulsoup4
+gradio
