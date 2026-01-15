@@ -28,5 +28,13 @@ All projects are beginner-friendly and focused on practical implementation.
 
 ---
 
+### 2️⃣ Text to Image Generation
+- Generates images from text prompts using diffusion models
+- Demonstrates image-based Generative AI
+- Notebook-based implementation
+
+📂 Folder: `02-text-to-image`
+
+
 ## 📌 Goal of this Repository
 To learn and showcase **Generative AI concepts** through hands-on projects, progressing from basic chatbots to advanced RAG-based systems.
