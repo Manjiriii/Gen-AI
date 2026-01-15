@@ -21,7 +21,7 @@ pip install -r requirements.txt
 2. Add your API key (if required in code)
 
 3. Open and run the notebook  
-`text_to_image.ipynb`
+`Text_to_image.ipynb`
 
 ## 📌 Example
 Prompt: *"A breathtaking night ocean scene with a large full moon glowing in the sky, moonlight reflecting across gentle ocean waves, glowing blue bioluminescent plankton illuminating the water near the shore, soft ripples sparkling with neon blue light, dark horizon blending into a star-filled sky, thin clouds drifting past the moon, magical yet realistic atmosphere, cinematic lighting, ultra-detailed, photorealistic, 4K resolution"*  
