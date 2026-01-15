@@ -24,6 +24,6 @@ pip install -r requirements.txt
 `text_to_image.ipynb`
 
 ## 📌 Example
-Prompt: *"A waterfall flowing upward into the sky, clouds forming where water ends, surreal nature scene, soft light, dreamy colors, ultra-detailed"*  
+Prompt: *"A breathtaking night ocean scene with a large full moon glowing in the sky, moonlight reflecting across gentle ocean waves, glowing blue bioluminescent plankton illuminating the water near the shore, soft ripples sparkling with neon blue light, dark horizon blending into a star-filled sky, thin clouds drifting past the moon, magical yet realistic atmosphere, cinematic lighting, ultra-detailed, photorealistic, 4K resolution"*  
 Output: AI-generated image
 
