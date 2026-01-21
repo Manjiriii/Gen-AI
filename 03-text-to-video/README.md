@@ -35,7 +35,8 @@ set HF_TOKEN=your_huggingface_token
 Install dependencies
 pip install -r requirements.txt
 
-Open and run the notebook
+Open and run the notebook:
+
 `Text_to_video.ipynb`
 
 📌 Example
