@@ -36,7 +36,7 @@ Install dependencies
 pip install -r requirements.txt
 
 Open and run the notebook
-Text_to_video.ipynb
+`Text_to_video.ipynb`
 
 📌 Example
 
