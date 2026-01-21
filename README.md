@@ -68,6 +68,26 @@ All projects are beginner-friendly and focused on practical implementation.
 - Video Processing (MoviePy / OpenCV)
 - Jupyter Notebook
 
+---
+
+### 4️⃣ Text to Speech Generation
+- Converts text into natural-sounding speech
+- Demonstrates audio-based Generative AI
+- Uses pre-trained TTS models
+
+📂 Folder: `04-text-to-speech`
+
+---
+
+## 🛠 Technologies Used
+- Python
+- Text-to-Speech (TTS) Models
+- Hugging Face Transformers / TTS Libraries
+- PyTorch
+- Audio Processing (SoundFile, SciPy)
+- Jupyter Notebook
+
+---
 
 ## 📌 Goal of this Repository
 To learn and showcase **Generative AI concepts** through hands-on projects, progressing from basic chatbots to advanced RAG-based systems.
