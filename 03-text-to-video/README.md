@@ -41,4 +41,5 @@ text_to_video.ipynb
 📌 Example
 
 Prompt: "A wide cinematic shot of a calm ocean under a massive full moon, moonlight shimmering across gentle waves, thin clouds slowly drifting past the moon, cool blue color palette, static camera with natural motion only, peaceful nighttime atmosphere"
+
 Output: AI-generated video
