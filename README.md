@@ -49,5 +49,25 @@ All projects are beginner-friendly and focused on practical implementation.
 
 ---
 
+### 3️⃣ Text to Video Generation
+- Generates short videos from text prompts
+- Uses diffusion-based text-to-video models
+- Demonstrates multimodal Generative AI
+
+📂 Folder: `03-text-to-video`
+
+---
+
+## 🛠 Technologies Used
+- Python
+- Text-to-Video Diffusion Models
+- Wan 2.2 Text-to-Video Model
+- Hugging Face Inference API
+- Hugging Face Hub
+- PyTorch
+- Video Processing (MoviePy / OpenCV)
+- Jupyter Notebook
+
+
 ## 📌 Goal of this Repository
 To learn and showcase **Generative AI concepts** through hands-on projects, progressing from basic chatbots to advanced RAG-based systems.
