@@ -35,6 +35,19 @@ All projects are beginner-friendly and focused on practical implementation.
 
 📂 Folder: `02-text-to-image`
 
+---
+
+## 🛠 Technologies Used
+- Python
+- Diffusion Models
+- Stable Diffusion
+- Hugging Face Diffusers Library
+- PyTorch
+- Pillow (Image Processing)
+- Matplotlib
+- Jupyter Notebook
+
+---
 
 ## 📌 Goal of this Repository
 To learn and showcase **Generative AI concepts** through hands-on projects, progressing from basic chatbots to advanced RAG-based systems.
